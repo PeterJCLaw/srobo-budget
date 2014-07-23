@@ -1,0 +1,13 @@
+summary: Screw-terminal arduino shield for sr2015 kits
+
+cost: 4.30 * sr2015_new_kits
+
+description: >-
+  Screw terminal arduino shields for the ruggeduinos in the sr2015
+  kits.
+
+  For easy access to the pins.  Based on the price here:
+  http://www.dfrobot.com/index.php?route=product/product&product_id=71#.U8_kbqaNE1w
+
+# Whether the item/service can only be used once
+consumable: false

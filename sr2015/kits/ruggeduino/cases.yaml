@@ -1,0 +1,11 @@
+summary: Cases for Ruggeduinos
+
+cost: 6.02 * sr2015_new_kits
+
+description: >-
+  Cases for the Ruggeduinos.
+
+  Cost based on SR2014 case spend.
+
+# Whether the item/service can only be used once
+consumable: false

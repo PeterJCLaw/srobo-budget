@@ -1,0 +1,13 @@
+summary: Ruggeduinos for sr2015 kits
+
+cost: 32.24 * sr2015_new_kits
+
+description: >-
+  Ruggeduinos for the SR2015 kits.
+
+  This is the price based on SR2014's expenditure.
+  (This is higher than the price on the website due to import duties
+  etc.)
+
+# Whether the item/service can only be used once
+consumable: false
