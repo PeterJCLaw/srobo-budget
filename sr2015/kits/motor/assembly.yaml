@@ -1,0 +1,11 @@
+summary: Assembly of the USB motor boards
+
+cost: 15.89 * 2 * sr2015_new_kits
+
+description: >-
+  USB motor board assembly.
+
+  Based on spend on SR2015 board assembly.
+
+# Whether the item/service can only be used once
+consumable: false

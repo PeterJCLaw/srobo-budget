@@ -1,0 +1,11 @@
+summary: Components for the USB motor boards
+
+cost: 28.14 * 2 * sr2015_new_kits
+
+description: >-
+  USB motor board assembly.
+
+  Based on the component cost of the SR2015 motor boards.
+
+# Whether the item/service can only be used once
+consumable: false
