@@ -2,7 +2,7 @@ summary: USB cables
 
 cost: >-
   ( sr2015_total_kits * 2 + sr2015_new_kits * 4 ) * 1.67 * 1.2 
-  + sr2015_total_kits * 0.94 * 1.2
+  + sr2015_new_kits * 0.94 * 1.2
 
 description: >-
   USB cables to connect things together.
@@ -16,9 +16,8 @@ description: >-
         http://www.entaonline.com/product/StarTechcom-USB-cable-4-pin-USB-Type-A_STH-UUSBHAUB3.htm
 
   - USB A-to-B:
-      All kits require a USB A-to-B cable as well for connecting the
-      ruggeduino (last year we used cables that had come with the USB
-      hubs, but these will be required for the hubs this time around).
+      New kits require a USB A-to-B cable as well for connecting the
+      ruggeduino.
 
       Price is based on this cable:
         http://www.entaonline.com/product/StarTechcom-05m-USB-20-A-to-B-Cable_STH-USB2HAB50CM.htm
