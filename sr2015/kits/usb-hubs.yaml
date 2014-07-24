@@ -1,0 +1,15 @@
+summary: USB hubs for SR2015 kit
+
+cost: (200 - (sr2014_total_kits * 2)) * 10.74
+
+description: >-
+  USB hubs for the SR2015 kits.
+
+  We have 200 hubs currently, so this makes the numbers up to the
+  number we need for all our kits.
+
+  This is based on the amount we spent in SR2014 on the startech
+  hubs.
+
+# Whether the item/service can only be used once
+consumable: false
