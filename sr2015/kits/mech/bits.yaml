@@ -1,0 +1,13 @@
+summary: Bits of mech kit
+
+# Cost of the item
+cost: (985.63 / sr2014_teams) * sr2015_teams
+
+# Long description
+description: >-
+  For the various bits and pieces that will form the mech kit.
+
+  Just scale up last year's spend.
+
+# Whether the item/service can only be used once
+consumable: true
