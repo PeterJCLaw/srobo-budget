@@ -60,10 +60,10 @@ vars:
   # The following all refer to SR2015
 
   # Number of teams in SR2015
-  sr2015_teams: 81
+  sr2015_teams: 77
 
   # Number of dev kits we'll own in SR2015
-  sr2015_dev_kits: 20
+  sr2015_dev_kits: 5
 
   # Number of spare kits we'll own in SR2015
   sr2015_spare_kits: ceiling(sr2015_teams * 0.125)
