@@ -1,6 +1,6 @@
 summary: USB hubs for SR2015 kit
 
-cost: (200 - (sr2014_total_kits * 2)) * 10.74
+cost: max(0, ((sr2015_total_kits * 2) - 200) * 10.74)
 
 description: >-
   USB hubs for the SR2015 kits.
