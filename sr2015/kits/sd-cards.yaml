@@ -1,0 +1,17 @@
+summary: SD cards for the ODROID
+
+# Cost of the item
+cost: 2.60 * 1.2 * sr2015_new_kits
+
+# Long description
+description: >-
+  MicroSD cards for the robot brains
+
+  £2.54 for Kingston 8GB Class 10:
+  http://www.entaonline.com/product/Kingston-MicroSDHC-8GB-Card-Class-10_K-SDC10--8GB.htm
+
+  £2.61 for Transcend 8GB Class 10:
+  http://www.entaonline.com/product/Transcend-8GB-MicroSDHC-Flash-Card-without-Adaptor-Class_TRN-TS8GUSDC10.htm
+
+# Whether the item/service can only be used once
+consumable: false
