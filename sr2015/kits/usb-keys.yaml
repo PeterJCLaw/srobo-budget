@@ -1,0 +1,13 @@
+summary: USB keys for the new kits
+
+cost: 2.62 * 1.2 * ceiling(sr2015_new_kits * 1.1) 
+
+description: >-
+  This is the price of this product from entatech:
+  http://www.entaonline.com/product/Kingston-DataTraveler-Generation-4-8GB-USB-Flash-Drive_K-DTIG4--8GB.htm
+
+  Including an extra 10% for the ones that have inevitably gone
+  missing.
+
+# Whether the item/service can only be used once
+consumable: false
