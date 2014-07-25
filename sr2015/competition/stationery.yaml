@@ -1,0 +1,11 @@
+summary: Stationery for score management
+
+cost: 100
+
+description: >-
+  Bits of stationery for competition paperwork
+
+  This is the amount we spent in SR2014.
+
+# Whether the item/service can only be used once
+consumable: false
