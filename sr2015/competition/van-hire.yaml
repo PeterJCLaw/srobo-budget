@@ -1,0 +1,12 @@
+summary: Van hire
+
+cost: 400
+
+description: >-
+  Van hire for moving things around.
+
+  For SR2014 we spent £387 on van hire, so budget a similar amount for
+  SR2015.
+
+# Whether the item/service can only be used once
+consumable: true
