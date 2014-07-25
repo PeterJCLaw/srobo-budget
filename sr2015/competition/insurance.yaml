@@ -1,0 +1,9 @@
+summary: Insurance against injury at the competition
+
+cost: 1000
+
+description: >-
+  Insurance against injury etc at the competition.
+  
+# Whether the item/service can only be used once
+consumable: true
