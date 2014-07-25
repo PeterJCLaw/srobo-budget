@@ -1,0 +1,13 @@
+summary: Prizes for competition winners and runners-up
+
+cost: 142 + (460.0/sr2014_teams) * sr2015_teams
+
+description: >-
+  Prizes and certificates for SR2015 competition winners and
+  participants.
+
+  Last year we spent £142 on trophies, and £460 on certificates.
+  This line assumes that the certificate spend goes up linearly with
+  the number of teams.
+
+consumable: true
