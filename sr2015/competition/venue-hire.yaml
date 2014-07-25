@@ -1,0 +1,13 @@
+summary: Venue hire for the competition
+
+cost: 16000.00
+
+description: >-
+  Venue hire estimate for SR2015.
+
+  We spent £15684 on the venue in SR2014.  At the moment, we don't
+  know exactly what venue we will have, but allocating this amount of
+  money to it seems reasonable.
+
+# Whether the item/service can only be used once
+consumable: true

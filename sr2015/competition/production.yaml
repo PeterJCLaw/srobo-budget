@@ -1,0 +1,12 @@
+summary: Production company logistics
+
+cost: 1380.00
+
+description: >-
+  Transport and misc consumables for production company.
+
+  Based on last year's expense.
+
+# Whether the item/service can only be used once
+consumable: true
+
