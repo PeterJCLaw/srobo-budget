@@ -1,0 +1,16 @@
+summary: Parts for the SR2015 arenas
+
+# Cost of the item
+cost: 1000
+
+# Long description
+description: >-
+  Parts for the structure of the SR2015 arenas.
+
+  This'll include things like wood, scaff, etc.  In previous years,
+  this has been made of separate budget lines.  It seems likely
+  that the structure of the arena will be changing for SR2015, so this
+  time around it's all in one budget line.
+
+# Whether the item/service can only be used once
+consumable: false
