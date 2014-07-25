@@ -1,0 +1,16 @@
+summary: Money for unexpected shipping
+
+# Cost of the item
+cost: 150.00
+
+# Long description
+description: >-
+  We occasionally have to ship things back and forth between teams
+  when stuff breaks etc.  This fund is for the emergency shipping of
+  things to and from teams, not for shipping kit to them.
+
+  Our spend was £82 in SR2014, and it seems reasonable to expect that
+  our spend will scale up a bit for SR2015.
+
+# Whether the item/service can only be used once
+consumable: true
