@@ -1,0 +1,19 @@
+summary: Hosting of web services
+
+# Cost of the item
+cost: 350
+
+# Long description
+description: >-
+  Hosting of the Student Robotics website with linode.com for one year.
+  During SR2014 we were charged at $40/month (their branding appears to
+  changes fairly often), but had issues with server performance during
+  the competition. It seems likely that we'll pay about the same for most
+  of the year, but may want to spend some more for the duration of the
+  competition.
+
+  The number above is thus last year's overall cost with some allowance
+  for competition specific costs.
+
+# Whether the item/service can only be used once
+consumable: true
