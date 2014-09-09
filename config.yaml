@@ -63,7 +63,7 @@ vars:
   sr2015_teams: 54
 
   # Number of dev kits we'll own in SR2015
-  sr2015_dev_kits: 18
+  sr2015_dev_kits: 19
 
   # Number of spare kits we'll own in SR2015
   sr2015_spare_kits: ceiling(sr2015_teams * 0.125)
@@ -72,4 +72,4 @@ vars:
   sr2015_total_kits: sr2015_teams + sr2015_spare_kits + sr2015_dev_kits
 
   # Number of kits to manufacture in SR2015
-  sr2015_new_kits: sr2015_total_kits - sr2014_end_kits
+  sr2015_new_kits: 0
